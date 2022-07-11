@@ -1,0 +1,49 @@
+@media only screen and (min-width: 1400px) {
+   
+}
+@media only screen and (min-height: 835px) {
+    .footer {
+        
+        margin-top: 554px;
+      }
+}
+
+@media only screen and (max-width: 1200px) {
+    
+}
+
+@media only screen and (max-width: 990px) {
+    .text p:nth-child(1) {
+        padding: 0px 20px;
+      }
+}
+
+@media only screen and (max-width: 768px) {
+    .text p:nth-child(1) {
+        padding: 0px 0px;
+      }
+      .text p {
+        
+        font-size: 14px;
+      }
+      .head-text h1:nth-child(1) {
+        font-size: 50px;
+      }
+      .head-text h1:nth-child(2){
+        font-size: 22px;
+      }
+}
+
+@media only screen and (max-width: 730px) {
+   
+}
+
+@media only screen and (max-width: 576px) {
+    .head-text h1:nth-child(1) {
+        font-size: 32px;
+      }
+      .head-text h1:nth-child(2){
+        font-size: 14px;
+      }
+   
+}

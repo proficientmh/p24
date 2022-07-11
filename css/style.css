@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Source+Serif+Pro&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+/* a {
+    text-decoration: none !important;
+} */
+
+/* body */
+.top-img{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.head-text{
+    text-align: center;
+    margin-top: 152px;
+}
+
+.head-text h1:nth-child(1) {
+    font-weight: 800;
+    font-size: 75px;
+    color: #000;
+}
+
+.head-text h1:nth-child(2) {
+    font-weight: 700;
+    font-size: 32px;
+    color: #000;
+  }
+
+  .text{
+    margin-top: 60px;
+}
+
+  .text p{
+    color: #7f7f7f;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+  }
+.text p a{
+    color: #7f7f7f;
+}
+  .text p:nth-child(1){
+    padding: 0px 168px;
+  }
+
+  .button{
+    text-align: center;
+    margin-top: 42px;
+    margin-bottom: 42px;
+  }
+
+  .button button{
+    background-color: #a50bf2;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 70px;
+  }
+
+  .button button:hover{
+    background-color: #8508C2;
+  }
+  
+  .footer{
+    background-color: #f2f2f2;
+    padding: 45px 0px;
+}
+.social-icon{
+    text-align: center;
+}
+
+.letter{
+    display: inline-block;
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 4px;
+}
+.letter a{
+    text-decoration: none !important;
+}
+.letter a h1{
+    font-weight: 400;
+    font-family:'Source Serif Pro', serif;
+    font-size: 15px;
+    color: #000;
+}
+.mail{
+    display: inline-block;
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 25px;
+}
+.mail a img{
+    width: 15px;
+    
+}
+.discard{
+    display: inline-block;
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.discard a img{
+    width: 15px;
+}
+.twitter{
+    display: inline-block;
+}
+.twitter a img{
+    width: 29px;
+}
